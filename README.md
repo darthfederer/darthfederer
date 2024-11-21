@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darthfederer aka Martin
+- 👋 Hi, I’m @mrtn.lim aka Martin
 - 👀 I’m interested in ...tennis, tech, and living a fulling and healthy lifestyle
 - 🌱 I’m currently learning ...swift, python, and going through the odin course to learn the back and front end
 - 💞️ I’m looking to collaborate on ... several passion projects
